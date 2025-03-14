@@ -4,7 +4,7 @@ A classic Snake Game built using HTML, CSS, and JavaScript without using the <ca
 
 **🎮 Features**
 
-✅ Smooth Snake Movement (Controlled with Arrow Keys 🏹)
+✅ Smooth Snake Movement (Controlled with Arrow Keys 🏹)<br>
 ✅ Food Generation (Appears randomly, snake grows when eaten 🍎)
 ✅ Collision Detection (Game over if snake hits itself or the wall)
 ✅ Score System (Increases as the snake eats food 📊)
