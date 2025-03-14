@@ -51,7 +51,7 @@ JavaScript (No Canvas) for game logic and movement
 1️⃣ Clone or Download this repository.
 
 
-git clone Mazid2003/snake-game-using-javascript
+git clone  https://github.com/Mazid2003/snake-game-using-javascript.git
 
 2️⃣ Open the folder and launch index.html in a web browser.
 3️⃣ Click "Start Game" and control the snake with arrow keys! 🎮🐍
