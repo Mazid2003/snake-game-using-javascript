@@ -41,8 +41,9 @@ JavaScript (No Canvas) for game logic and movement<br>
 
 **Screenshots**
 
+**1.**
 ![screenshot_2025-04-16_17-18-07](https://github.com/user-attachments/assets/49ce1bf9-37c0-4c53-98b5-6593cf329034)
-
+**2.**
 ![screenshot_2025-04-16_17-21-04](https://github.com/user-attachments/assets/8d54b70b-1c35-4d95-ac53-03830829d6b7)
 
 **🚀 Future Improvements**
