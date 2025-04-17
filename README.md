@@ -39,6 +39,12 @@ JavaScript (No Canvas) for game logic and movement<br>
 5️⃣ The game ends if the snake collides with itself or the edges of the box.<br>
 6️⃣ Click "Start Game" to begin, and click "Pause" to stop & resume anytime.<br>
 
+**Screenshots**
+
+![screenshot_2025-04-16_17-18-07](https://github.com/user-attachments/assets/49ce1bf9-37c0-4c53-98b5-6593cf329034)
+
+![screenshot_2025-04-16_17-21-04](https://github.com/user-attachments/assets/8d54b70b-1c35-4d95-ac53-03830829d6b7)
+
 **🚀 Future Improvements**
 
 🔹 More Levels & Obstacles (Walls or AI-controlled enemies)<br>
