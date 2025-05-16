@@ -73,7 +73,7 @@ git clone  https://github.com/Mazid2003/snake-game-using-javascript.git<br>
 
 This project is open-source under the MIT License. Feel free to use and modify it! 🚀
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Created by Mohammad Mazid
 
