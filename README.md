@@ -2,6 +2,10 @@
 
 A classic Snake Game built using HTML, CSS, and JavaScript without using the <canvas> element. The entire game is created using div-based grid elements and is fully playable with arrow key controls.
 
+**Wanna play the game**
+
+[Click here](https://snake-game-eight-steel.vercel.app/)
+
 **🎮 Features**
 
 ✅ Smooth Snake Movement (Controlled with Arrow Keys 🏹)<br>
